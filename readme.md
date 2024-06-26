@@ -16,7 +16,7 @@ markdown
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/Exile404/teacmcollab.git](https://github.com/Exile404/teamcollab.git)
+   git clone https://github.com/Exile404/teacmcollab.git
    cd teamcollab
    ```
 
